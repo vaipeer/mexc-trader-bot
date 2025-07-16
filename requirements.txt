@@ -1,2 +1,4 @@
-web: python3 main.py
+Flask
+requests
+
 
