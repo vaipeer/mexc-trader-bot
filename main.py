@@ -4,8 +4,8 @@ import requests
 app = Flask(__name__)
 
 # ⚠️ مقادیر زیر رو حتما با توکن و چت آی‌دی خودت جایگزین کن
-TELEGRAM_TOKEN = "YOUR_BOT_TOKEN"
-TELEGRAM_CHAT_ID = "@your_channel_or_chat_id"
+TELEGRAM_TOKEN = '7287941986:AAGrNq_aNdiDiGvLhfKT5M6-vm1ZamegQZA'
+TELEGRAM_CHAT_ID = '@mexccccccc'
 
 @app.route("/")
 def home():
